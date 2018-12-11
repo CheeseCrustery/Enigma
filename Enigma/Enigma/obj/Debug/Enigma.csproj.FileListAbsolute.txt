@@ -1,0 +1,41 @@
+D:\Schule\Enigma\Code\Enigma\Enigma\obj\Debug\Enigma.Properties.Resources.resources
+D:\Schule\Enigma\Code\Enigma\Enigma\obj\Debug\Enigma.csproj.GenerateResource.cache
+D:\Schule\Enigma\Code\Enigma\Enigma\obj\Debug\Enigma.csproj.CoreCompileInputs.cache
+D:\Schule\Enigma\Code\Enigma\Enigma\bin\Debug\Enigma.exe.config
+D:\Schule\Enigma\Code\Enigma\Enigma\bin\Debug\Enigma.exe
+D:\Schule\Enigma\Code\Enigma\Enigma\bin\Debug\Enigma.pdb
+D:\Schule\Enigma\Code\Enigma\Enigma\obj\Debug\Enigma.exe
+D:\Schule\Enigma\Code\Enigma\Enigma\obj\Debug\Enigma.pdb
+D:\Schule\Enigma\Code\Enigma\Enigma\obj\Debug\Enigma.csprojAssemblyReference.cache
+D:\Schule\Enigma\Code\Enigma\Enigma\obj\Debug\Enigma._FormMain.resources
+D:\Schule\Enigma\Code\Enigma\Enigma\obj\Debug\Enigma._FormVersion.resources
+D:\Schule\Enigma\Code\Enigma\Enigma\bin\Debug\Newtonsoft.Json.dll
+D:\Schule\Enigma\Code\Enigma\Enigma\bin\Debug\Newtonsoft.Json.xml
+D:\Schule\Enigma\Code\Enigma\Enigma\obj\Debug\Enigma.csproj.CopyComplete
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\bin\Debug\Enigma.exe.config
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\bin\Debug\Enigma.exe
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\bin\Debug\Enigma.pdb
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\bin\Debug\Newtonsoft.Json.dll
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\bin\Debug\Newtonsoft.Json.xml
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\obj\Debug\Enigma.csprojAssemblyReference.cache
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\obj\Debug\Enigma._FormMain.resources
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\obj\Debug\Enigma._FormVersion.resources
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\obj\Debug\Enigma.Properties.Resources.resources
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\obj\Debug\Enigma.csproj.GenerateResource.cache
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\obj\Debug\Enigma.csproj.CoreCompileInputs.cache
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\obj\Debug\Enigma.csproj.CopyComplete
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\obj\Debug\Enigma.exe
+D:\Schule\Enigma\Code\Enigma BACKUP\Enigma\obj\Debug\Enigma.pdb
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\bin\Debug\Enigma.exe.config
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\bin\Debug\Enigma.exe
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\bin\Debug\Enigma.pdb
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\bin\Debug\Newtonsoft.Json.dll
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\bin\Debug\Newtonsoft.Json.xml
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\obj\Debug\Enigma.csprojResolveAssemblyReference.cache
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\obj\Debug\Enigma._FormMain.resources
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\obj\Debug\Enigma._FormVersion.resources
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\obj\Debug\Enigma.Properties.Resources.resources
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\obj\Debug\Enigma.csproj.GenerateResource.Cache
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\obj\Debug\Enigma.csproj.CoreCompileInputs.cache
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\obj\Debug\Enigma.exe
+I:\Eigene Dateien\Informatik\2018_12 Enigma\Enigma\obj\Debug\Enigma.pdb
