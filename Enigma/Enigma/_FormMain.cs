@@ -45,8 +45,9 @@ namespace Enigma
         private void buttonStart_Click(object sender, EventArgs e)
         {
 			enigma.wheelSettings[2] = 0;
-			
-			textBoxOutput.Text = enigma.code(textBoxInput.Text);
+
+			string input = IO.convertEnigma(textBoxInput.Text);
+			textBoxOutput.Text = enigma.code(input);
 		}
 
 		private void _FormMain_Paint(object sender, PaintEventArgs e)
